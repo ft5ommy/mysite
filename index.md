@@ -2,22 +2,21 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![avatar](littlep_universe.jpg)
 
-# ft5
+# ft5ommy
 
-A Nintendo Character
+前途茫茫的大學生
 
 - - -
 
 ### about
 
-Kirby (カービィ Kābī?) is a fictional character and the titular protagonist of the Kirby series of video games owned by Nintendo and HAL Laboratory. As one of Nintendo's most famous and familiar icons, Kirby's round appearance and ability to copy his foes' powers has made him a well known figure in video games, consistently ranked as one of the most iconic video game characters. 
+謝定宇，現為松菸獨立書店閱樂店員。妄想逃避著現實，但世界的美好又讓他情不自禁的好奇碰觸。
+
 
 ### Links
 
- * [11 amazing Kirby facts and secrets](http://www.officialnintendomagazine.co.uk/41729/11-amazing-kirby-facts-and-secrets/)
- * [How did your favourite Nintendo characters get their names?](http://www.officialnintendomagazine.co.uk/42153/how-did-mario-get-his-name-and-the-origins-of-your-favourite-nintendo-stars/?page=6)
- * [Why is Kirby always angry in the US? Nintendo explains](http://www.gamespot.com/articles/why-is-kirby-always-angry-in-the-us-nintendo-explains/1100-6419263/)
+ * [安安給約嗎，我的Facebook](http:/www.facebook.com/100005554545500)
 
 - - -
