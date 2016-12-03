@@ -18,5 +18,8 @@ layout: default
 ### Links
 
  * [安安給約嗎，我的Facebook](http:/www.facebook.com/100005554545500)
+ * [Northkk](http://joky.hhtpe.me/)
+ * [Iamshihshan](https://olly.hhtpe.me)
+ 
 
 - - -
