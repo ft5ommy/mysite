@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](littlep_universe.jpg)
+![avatar](littlep_universe_300)
 
 # ft5ommy
 
